@@ -17,6 +17,14 @@ The backend is built with Python, which handles the data fetching and processing
 - **Data Visualization**: The dashboard uses modern charting libraries like Chart.js or D3.js to present data in an engaging and informative manner.
 - **FastAPI or Flask Backend**: Python is used to create a lightweight and fast API for data fetching, ensuring that performance is optimized even when handling large datasets.
 
+## 🚧 Future Enhancements
+
+- **Advanced Filtering: Allow users to apply filters to the data, such as date ranges, user segments, and geographic regions.
+- **Multiple Accounts: Support for managing multiple Google Analytics accounts and switching between them seamlessly.
+- **Data Export: Enable exporting of the analytics data in CSV or PDF format for offline use.
+- **Email Reports: Set up scheduled reports that can be automatically emailed to users with key metrics and insights.
+
+
 ## 🛠️ Technologies Used
 
 ### Backend:
